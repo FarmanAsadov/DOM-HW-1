@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  font-size: 1.2rem;
+}
+h3 {
+  margin: 20px;
+}
+
+.lis {
+  cursor: pointer;
+}
+
+.btn {
+  border-radius: 8px;
+  background-color: deepskyblue;
+  border: none;
+  font-size: 1.05rem;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.inpt_txt {
+  margin: 10px;
+  border-radius: 8px;
+  outline: none;
+  border: 1px solid black;
+  font-size: 1.2rem;
+}
+
+.text {
+  margin-right: 15px;
+}
+
+.btn_edit:hover {
+  background-color: red;
+}
